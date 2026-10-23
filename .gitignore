@@ -1,0 +1,23 @@
+# Credenciales y secretos (¡Muy importante!)
+.env
+
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+
+# Entornos virtuales (por si en algún momento usas venv/virtualenv además de Conda)
+venv/
+env/
+ENV/
+
+# IDEs y Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
